@@ -5,7 +5,7 @@ An analysis by using Machine Learning algorithms to identify credit card risk us
 
 # Overview
 
-The purpose of this analysis is to understand how to utilize `Machine Learning` statistical algorithms to make predictions based on data patterns provided. 
+The purpose of this analysis is to understand how  `Machine Learning` statistical algorithms help make predictions based on data patterns provided. 
 
 To complete this analysis, we use different `Machine Learning` techniques to train and evaluate the data with unbalanced classes. The dataset  has an unbalanced classification problem due to the number of good loans outweighing the amount of risky loans. In order to balance out the classifications to allow for more meaningful predictions and improve the accuracy score, we needed to employ various `Machine Learning` algorithms to resample the data. These algorithms include `RandomOverSampler`, `SMOTE`, `ClusterCentroids`, `SMOTEENN`, `BalancedRandomForestClassifier`, and `EasyEnsembleClassifier`.
 
